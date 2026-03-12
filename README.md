@@ -4,7 +4,7 @@
 
 ### What I Do
 - 🤖 Building AI-powered products in HR Tech & B2B SaaS
-- ⚡ Prototyping fast with **Lovable**, **Bolt** & **Lyzr**
+- ⚡ Prototyping fast with **Lovable**, **Bolt** , **Lyzr** & **n8n**
 - 📊 Obsessed with TAT reduction, retention & products that actually stick
 - 💡 Turning user problems into shipped solutions
 
